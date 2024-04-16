@@ -21,16 +21,16 @@
             }
         },
         {
-            "chainId": "34443",
-            "name": "Mode Mainnet",
+            "chainId": "10",
+            "name": "OP Mainnet",
             "addresses": {
                 "standardL1BridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
                 "l2BridgeAddress": "0x4200000000000000000000000000000000000010",
                 "ModeMigrateERC20Factory": "",
-                "OptimismMintableERC20Factory": "0xc0c6A811BBf07FA01b946F1C46a9A94c2eE8C73E",
+                "OptimismMintableERC20Factory": "0x4200000000000000000000000000000000000012",
                 "LiquidityAggregatorProxy": "",
-                "UniswapV2Factory": "",
-                "UniswapV2Router": ""
+                "UniswapV2Factory": "0x0c3c1c532F1e39EdF36BE9Fe0bE1410313E074Bf",
+                "UniswapV2Router": "0x4A7b5Da61326A6379179b40d00F57E5bbDC962c2"
             }
         },
         {
@@ -40,10 +40,10 @@
                 "standardL1BridgeAddress": "0x735aDBbE72226BD52e818E7181953f42E3b0FF21",
                 "l2BridgeAddress": "0x4200000000000000000000000000000000000010",
                 "BaseMigrateERC20Factory": "",
-                "OptimismMintableERC20Factory": "0x4200000000000000000000000000000000000012",
+                "OptimismMintableERC20Factory": "0xc0c6A811BBf07FA01b946F1C46a9A94c2eE8C73E",
                 "LiquidityAggregatorProxy": "",
-                "UniswapV2Factory": "0x0c3c1c532F1e39EdF36BE9Fe0bE1410313E074Bf",
-                "UniswapV2Router": "0x4A7b5Da61326A6379179b40d00F57E5bbDC962c2"
+                "UniswapV2Factory": "",
+                "UniswapV2Router": ""
             }
         }
     ]
