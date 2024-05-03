@@ -13,7 +13,7 @@
             "addresses": {
                 "standardL1BridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
                 "l2BridgeAddress": "0x4200000000000000000000000000000000000010",
-                "OPMigrateERC20Factory": "0x7F46a4944F9C3ecF4Ea622364132b3fE9aBa1015",
+                "BaseMigrateERC20Factory": "0x7F46a4944F9C3ecF4Ea622364132b3fE9aBa1015",
                 "OptimismMintableERC20Factory": "0xf23d369d7471bd9f6487e198723eea023389f1d4",
                 "LiquidityAggregatorProxy": "",
                 "UniswapV2Factory": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6",
