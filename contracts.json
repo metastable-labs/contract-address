@@ -1,5 +1,5 @@
 {
-    "name": "Supermigrate Contract List",
+    "name": "Metastable Contract List",
     "keywords": [
         "scaling",
         "layer2",
@@ -17,7 +17,8 @@
                 "OptimismMintableERC20Factory": "0xf23d369d7471bd9f6487e198723eea023389f1d4",
                 "LiquidityAggregatorProxy": "",
                 "UniswapV2Factory": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6",
-                "UniswapV2Router": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24"
+                "UniswapV2Router": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24",
+                "LaunchboxERC20Factory": "0xd94ec8ab4789c0cd88b61e1bda846459668ed920"
             }
         },
         {
