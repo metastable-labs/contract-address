@@ -18,9 +18,9 @@
                 "LiquidityAggregatorProxy": "",
                 "UniswapV2Factory": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6",
                 "UniswapV2Router": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24",
-                "LaunchboxFactory": "0x1f7c7BAf64FbfD9eB8a0Aa9ad52c85f70f2297A4",
-                "LaunchboxERC20Implementation": "0x067a4F7194ED2ACF31ce1278459E14F971dCE283",
-                "LaunchboxExchangeImplementation": "0xD1012738d8e2f20681C09E5941D9D97B441232c7"
+                "LaunchboxFactory": "0xb4a3244f839104542068CE35f2ba4FA9BFC082DB",
+                "LaunchboxERC20Implementation": "0xBe32886737e254D8F453574eFd12cb52dfDa48c3",
+                "LaunchboxExchangeImplementation": "0x99FDcA64009B90a3D28D3D18290C403E6F2935d3"
             }
         },
         {
