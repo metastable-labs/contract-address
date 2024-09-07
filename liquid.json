@@ -1,0 +1,11 @@
+{
+    "ConnectorRegistry": "0x26a90A7f423fa9037aBFcb1311d03fDa90F07B18",
+    "ConnectorPlugin": "0xCC09a96891026c2a50e783094E411dA566B260a3",
+    "base": {
+        "connectors": [
+            {
+                "AerodromeConnector": "0xb5bAA3aEA179e12D9D51b5b51191e3dA18D16B5b"
+            }
+        ]
+    }
+}
