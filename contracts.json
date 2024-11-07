@@ -48,6 +48,19 @@
                 "UniswapV2Factory": "",
                 "UniswapV2Router": ""
             }
+        },
+        {
+            "chainId": "763373",
+            "name": "Ink Sepolia",
+            "addresses": {
+                "standardL1BridgeAddress": "0x33f60714bbd74d62b66d79213c348614de51901c",
+                "l2BridgeAddress": "0x4200000000000000000000000000000000000010",
+                "SuperERC20Factory": "0x18196CCaA8C2844c82B40a8bDCa27349C7466280",
+                "OptimismMintableERC20Factory": "0x4200000000000000000000000000000000000012",
+                "LiquidityAggregatorProxy": "",
+                "UniswapV2Factory": "",
+                "UniswapV2Router": ""
+            }
         }
     ]
 }
